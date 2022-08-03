@@ -7,3 +7,9 @@ I ended up creating fake MP3 files with artist, album and cover to make my scree
 
 If anyone has a similar problem:
 Here are the files. The covers are taken from public domain images from flickr. Titles, artists and albums I made up freely.
+
+## Images
+
+![Albums](/_img/album.png)
+
+![Tracks](/_img/tracks.png)
